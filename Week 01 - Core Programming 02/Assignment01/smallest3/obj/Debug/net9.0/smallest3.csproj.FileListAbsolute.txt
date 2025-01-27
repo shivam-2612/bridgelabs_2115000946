@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\bin\Debug\net9.0\smallest3.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\bin\Debug\net9.0\smallest3.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\bin\Debug\net9.0\smallest3.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\bin\Debug\net9.0\smallest3.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\bin\Debug\net9.0\smallest3.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\refint\smallest3.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\smallest3.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Week 01 - Core Programming\02\Assignment01\smallest3\obj\Debug\net9.0\ref\smallest3.dll
