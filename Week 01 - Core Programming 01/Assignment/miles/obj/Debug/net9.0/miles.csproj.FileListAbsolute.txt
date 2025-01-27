@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\bin\Debug\net9.0\miles.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\bin\Debug\net9.0\miles.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\bin\Debug\net9.0\miles.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\bin\Debug\net9.0\miles.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\bin\Debug\net9.0\miles.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\refint\miles.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\miles.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\miles\obj\Debug\net9.0\ref\miles.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\bin\Debug\net9.0\discount.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\bin\Debug\net9.0\discount.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\bin\Debug\net9.0\discount.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\bin\Debug\net9.0\discount.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\bin\Debug\net9.0\discount.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\refint\discount.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\discount.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\discount\obj\Debug\net9.0\ref\discount.dll

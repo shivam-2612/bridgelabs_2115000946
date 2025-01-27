@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\bin\Debug\net9.0\dividepen.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\bin\Debug\net9.0\dividepen.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\bin\Debug\net9.0\dividepen.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\bin\Debug\net9.0\dividepen.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\bin\Debug\net9.0\dividepen.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\refint\dividepen.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\dividepen.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\dividepen\obj\Debug\net9.0\ref\dividepen.dll

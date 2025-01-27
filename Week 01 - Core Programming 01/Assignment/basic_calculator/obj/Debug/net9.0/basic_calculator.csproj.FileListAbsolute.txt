@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\bin\Debug\net9.0\basic_calculator.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\bin\Debug\net9.0\basic_calculator.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\bin\Debug\net9.0\basic_calculator.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\bin\Debug\net9.0\basic_calculator.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\bin\Debug\net9.0\basic_calculator.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\refint\basic_calculator.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\basic_calculator.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\basic_calculator\obj\Debug\net9.0\ref\basic_calculator.dll

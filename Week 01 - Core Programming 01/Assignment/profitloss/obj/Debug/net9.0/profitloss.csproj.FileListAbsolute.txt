@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\bin\Debug\net9.0\profitloss.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\bin\Debug\net9.0\profitloss.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\bin\Debug\net9.0\profitloss.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\bin\Debug\net9.0\profitloss.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\bin\Debug\net9.0\profitloss.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\refint\profitloss.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\profitloss.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\profitloss\obj\Debug\net9.0\ref\profitloss.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\bin\Debug\net9.0\SAM.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\bin\Debug\net9.0\SAM.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\bin\Debug\net9.0\SAM.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\bin\Debug\net9.0\SAM.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\bin\Debug\net9.0\SAM.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\refint\SAM.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\SAM.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\SAM\obj\Debug\net9.0\ref\SAM.dll

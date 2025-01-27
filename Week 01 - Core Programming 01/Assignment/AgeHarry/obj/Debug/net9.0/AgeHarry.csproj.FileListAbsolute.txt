@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.AssemblyInfo.cs
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.sourcelink.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\bin\Debug\net9.0\AgeHarry.exe
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\bin\Debug\net9.0\AgeHarry.deps.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\bin\Debug\net9.0\AgeHarry.runtimeconfig.json
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\bin\Debug\net9.0\AgeHarry.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\bin\Debug\net9.0\AgeHarry.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\refint\AgeHarry.dll
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.pdb
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\AgeHarry.genruntimeconfig.cache
+C:\Users\HP\Desktop\bridgelabs_2115000946\Assignment\AgeHarry\obj\Debug\net9.0\ref\AgeHarry.dll
