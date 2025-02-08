@@ -21,5 +21,12 @@
 # 01/02/25
 - done a assignment of constructors
 
-# 02/02/25
+# 03/02/25
 - done a assignment of this, sealed, static key words and is operator
+
+# 06/02/25
+- done a assignment of oops
+
+# 08/02/25
+- done a assignment of inheritance
+
