@@ -30,3 +30,6 @@
 # 08/02/25
 - done a assignment of inheritance
 
+# 10/02/25
+- done a assignment on Encapsulation, Polymorphism, Interface and Abstract Class
+
