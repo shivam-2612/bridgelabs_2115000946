@@ -38,3 +38,6 @@
 
 # 13/02/25
 - done a assignment of Stacks, Queues, Hash Maps, Hash Functions
+
+# 14/02/25
+- done a assignment of Sorting Algorithms
