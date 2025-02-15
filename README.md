@@ -41,3 +41,6 @@
 
 # 14/02/25
 - done a assignment of Sorting Algorithms
+
+# 16/02/25
+- done a assignment of Linear and Binary Search
