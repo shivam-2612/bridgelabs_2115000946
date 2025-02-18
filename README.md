@@ -47,3 +47,6 @@
 
 # 17/02/25
 - done a assignment of Algorithm's Runtime Analysis & Big-O Notation
+
+# 18/02/25
+- done a assignment of C# Generics
