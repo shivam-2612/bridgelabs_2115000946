@@ -50,3 +50,6 @@
 
 # 18/02/25
 - done a assignment of C# Generics
+
+# 19/02/25
+- done a assignment of Collections
