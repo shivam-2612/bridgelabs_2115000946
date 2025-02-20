@@ -53,3 +53,6 @@
 
 # 19/02/25
 - done a assignment of Collections
+
+# 20/02/25
+- done a assignment C# Streams
