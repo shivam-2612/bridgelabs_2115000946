@@ -55,4 +55,7 @@
 - done a assignment of Collections
 
 # 20/02/25
-- done a assignment C# Streams
+- done a assignment of C# Streams
+
+# 21/02/25
+- done a assignment of Exception Handling in C#
