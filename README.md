@@ -59,3 +59,6 @@
 
 # 21/02/25
 - done a assignment of Exception Handling in C#
+
+# 22/02/25
+- done two assignments of Regex and Nunit
