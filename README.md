@@ -62,3 +62,6 @@
 
 # 22/02/25
 - done two assignments of Regex and Nunit
+
+# 24/02/25
+- done two assignments of Annotations and Reflection
