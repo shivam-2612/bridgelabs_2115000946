@@ -65,3 +65,6 @@
 
 # 24/02/25
 - done two assignments of Annotations and Reflection
+
+# 25/02/25
+- done a assignment of CSV Data Handling
