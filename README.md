@@ -71,3 +71,6 @@
 
 # 28/02/25
 - done a assignment of Web API
+
+# 02/03/25
+- Done a ssignment of ORM - Entity Framework
