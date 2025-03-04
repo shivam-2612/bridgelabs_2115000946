@@ -1,0 +1,130 @@
+2025-03-03 19:24:44.0809 Info Now listening on: https://localhost:7266 
+2025-03-03 19:24:44.1390 Info Now listening on: http://localhost:5250 
+2025-03-03 19:24:44.2275 Info Application started. Press Ctrl+C to shut down. 
+2025-03-03 19:24:44.2275 Info Hosting environment: Development 
+2025-03-03 19:24:44.2275 Info Content root path: D:\Dotnet Framework\HelloApp\HelloApp\ 
+2025-03-03 19:24:45.8997 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.html - - 
+2025-03-03 19:24:46.5644 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.html - - - 200 - text/html;charset=utf-8 671.0034ms 
+2025-03-03 19:24:46.6365 Info Request starting HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-03 19:24:46.6365 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-standalone-preset.js - - 
+2025-03-03 19:24:46.6365 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.css - - 
+2025-03-03 19:24:46.6364 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/swagger-ui.css - - 
+2025-03-03 19:24:46.6365 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.js - - 
+2025-03-03 19:24:46.6692 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-bundle.js - - 
+2025-03-03 19:24:46.7095 Info Request starting HTTP/2 GET https://localhost:7266/_vs/browserLink - - 
+2025-03-03 19:24:46.7318 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 91.3868ms 
+2025-03-03 19:24:46.7318 Info Request finished HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - - 200 12348 application/javascript;+charset=utf-8 97.8742ms 
+2025-03-03 19:24:46.7466 Info The file /swagger-ui-standalone-preset.js was not modified 
+2025-03-03 19:24:46.7466 Info The file /index.css was not modified 
+2025-03-03 19:24:46.7466 Info The file /swagger-ui.css was not modified 
+2025-03-03 19:24:46.7466 Info The file /swagger-ui-bundle.js was not modified 
+2025-03-03 19:24:46.7466 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-bundle.js - - - 304 - application/javascript 79.5948ms 
+2025-03-03 19:24:46.7466 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/swagger-ui.css - - - 304 - text/css 112.8155ms 
+2025-03-03 19:24:46.7466 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.css - - - 304 - text/css 114.5087ms 
+2025-03-03 19:24:46.7466 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-standalone-preset.js - - - 304 - application/javascript 112.3996ms 
+2025-03-03 19:24:46.9694 Info Request finished HTTP/2 GET https://localhost:7266/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 259.8959ms 
+2025-03-03 19:24:47.5994 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - 
+2025-03-03 19:24:47.5994 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.9454ms 
+2025-03-03 19:25:28.3166 Info Request starting HTTP/2 POST https://localhost:7266/HelloApp/register application/json 110 
+2025-03-03 19:25:28.3166 Info Executing endpoint 'HelloApp.Controllers.HelloAppController.Register (HelloApp)' 
+2025-03-03 19:25:28.3654 Info Route matched with {action = "Register", controller = "HelloApp"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register(ModelLayer.DTO.RegisterDTO) on controller HelloApp.Controllers.HelloAppController (HelloApp). 
+2025-03-03 19:25:28.6833 Info Register attempt for email: somesh@gmail.com 
+2025-03-03 19:25:28.6921 Info RegisterBL function called for email: somesh@gmail.com 
+2025-03-03 19:25:28.6921 Info Attempting to register new user: somesh@gmail.com 
+2025-03-03 19:25:29.4226 Info Entity Framework Core 6.0.36 initialized 'HelloAppContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-03 19:25:30.7992 Info Executed DbCommand (115ms) [Parameters=[@__registerDTO_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE [u].[Email] = @__registerDTO_Email_0 
+2025-03-03 19:25:31.0721 Info Executed DbCommand (19ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Email], [FirstName], [LastName], [Password])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [UserId]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [UserId] = scope_identity(); 
+2025-03-03 19:25:31.1187 Info User registered successfully: somesh@gmail.com 
+2025-03-03 19:25:31.1187 Info User registered successfully: somesh@gmail.com 
+2025-03-03 19:25:31.1187 Info Executing CreatedResult, writing value of type '<>f__AnonymousType0`2[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-03 19:25:31.1356 Info Executed action HelloApp.Controllers.HelloAppController.Register (HelloApp) in 2765.2073ms 
+2025-03-03 19:25:31.1356 Info Executed endpoint 'HelloApp.Controllers.HelloAppController.Register (HelloApp)' 
+2025-03-03 19:25:31.1447 Info Request finished HTTP/2 POST https://localhost:7266/HelloApp/register application/json 110 - 201 - application/json;+charset=utf-8 2828.1578ms 
+2025-03-03 19:26:11.5697 Info Request starting HTTP/2 POST https://localhost:7266/HelloApp/login application/json 61 
+2025-03-03 19:26:11.5697 Info Executing endpoint 'HelloApp.Controllers.HelloAppController.PostData (HelloApp)' 
+2025-03-03 19:26:11.5697 Info Route matched with {action = "PostData", controller = "HelloApp"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PostData(ModelLayer.DTO.LoginDTO) on controller HelloApp.Controllers.HelloAppController (HelloApp). 
+2025-03-03 19:26:11.5697 Info Login attempt for user: somesh@gmail.com 
+2025-03-03 19:26:11.5697 Info LoginUser function called for email: somesh@gmail.com 
+2025-03-03 19:26:11.5697 Info Fetching user from database for email: somesh@gmail.com 
+2025-03-03 19:26:11.5856 Info Entity Framework Core 6.0.36 initialized 'HelloAppContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-03 19:26:11.6050 Info Executed DbCommand (4ms) [Parameters=[@__loginDTO_email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE [u].[Email] = @__loginDTO_email_0 
+2025-03-03 19:26:11.6127 Info User somesh@gmail.com logged in successfully. 
+2025-03-03 19:26:11.6127 Info User somesh@gmail.com logged in successfully. 
+2025-03-03 19:26:11.6127 Info Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-03 19:26:11.6127 Info Executed action HelloApp.Controllers.HelloAppController.PostData (HelloApp) in 40.2976ms 
+2025-03-03 19:26:11.6127 Info Executed endpoint 'HelloApp.Controllers.HelloAppController.PostData (HelloApp)' 
+2025-03-03 19:26:11.6127 Info Request finished HTTP/2 POST https://localhost:7266/HelloApp/login application/json 61 - 200 - application/json;+charset=utf-8 45.3359ms 
+2025-03-03 22:38:46.3697 Info Now listening on: https://localhost:7266 
+2025-03-03 22:38:46.4460 Info Now listening on: http://localhost:5250 
+2025-03-03 22:38:46.5644 Info Application started. Press Ctrl+C to shut down. 
+2025-03-03 22:38:46.5644 Info Hosting environment: Development 
+2025-03-03 22:38:46.5644 Info Content root path: D:\Dotnet Framework\HelloApp\HelloApp\ 
+2025-03-03 22:38:47.3090 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.html - - 
+2025-03-03 22:38:48.0431 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.html - - - 200 - text/html;charset=utf-8 750.4343ms 
+2025-03-03 22:38:48.0942 Info Request starting HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-03 22:38:48.0942 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.js - - 
+2025-03-03 22:38:48.0977 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 3.4174ms 
+2025-03-03 22:38:48.0977 Info Request finished HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - - 200 12348 application/javascript;+charset=utf-8 12.2980ms 
+2025-03-03 22:38:48.1567 Info Request starting HTTP/2 GET https://localhost:7266/_vs/browserLink - - 
+2025-03-03 22:38:48.3248 Info Request finished HTTP/2 GET https://localhost:7266/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 168.1127ms 
+2025-03-03 22:38:49.0723 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - 
+2025-03-03 22:38:49.0809 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.8068ms 
+2025-03-04 21:57:42.5442 Info Now listening on: https://localhost:7266 
+2025-03-04 21:57:42.6183 Info Now listening on: http://localhost:5250 
+2025-03-04 21:57:42.7070 Info Application started. Press Ctrl+C to shut down. 
+2025-03-04 21:57:42.7070 Info Hosting environment: Development 
+2025-03-04 21:57:42.7070 Info Content root path: C:\Users\HP\Downloads\New folder\HelloApp\HelloApp\ 
+2025-03-04 21:57:44.4868 Info Request starting HTTP/2 GET https://localhost:7266/Swagger - - 
+2025-03-04 21:57:45.0087 Info Request finished HTTP/2 GET https://localhost:7266/Swagger - - - 301 0 - 528.0616ms 
+2025-03-04 21:57:45.0369 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.html - - 
+2025-03-04 21:57:45.2593 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.html - - - 200 - text/html;charset=utf-8 222.2234ms 
+2025-03-04 21:57:45.3018 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/swagger-ui.css - - 
+2025-03-04 21:57:45.3556 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.css - - 
+2025-03-04 21:57:45.3556 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-bundle.js - - 
+2025-03-04 21:57:45.3556 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-standalone-preset.js - - 
+2025-03-04 21:57:45.3758 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.js - - 
+2025-03-04 21:57:45.3781 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 2.3427ms 
+2025-03-04 21:57:45.3781 Info Request starting HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-04 21:57:45.3939 Info Request starting HTTP/2 GET https://localhost:7266/_vs/browserLink - - 
+2025-03-04 21:57:45.5117 Info Sending file. Request path: '/index.css'. Physical path: 'N/A' 
+2025-03-04 21:57:45.5500 Info Request finished HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - - 200 16501 application/javascript;+charset=utf-8 170.5960ms 
+2025-03-04 21:57:45.5690 Info Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-03-04 21:57:45.5690 Info Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' 
+2025-03-04 21:57:45.5690 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.css - - - 200 202 text/css 214.9189ms 
+2025-03-04 21:57:45.5690 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/swagger-ui.css - - - 200 154948 text/css 272.8968ms 
+2025-03-04 21:57:45.5690 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-standalone-preset.js - - - 200 229223 application/javascript 211.7404ms 
+2025-03-04 21:57:45.6888 Info Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' 
+2025-03-04 21:57:45.6888 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/swagger-ui-bundle.js - - - 200 1466324 application/javascript 326.3542ms 
+2025-03-04 21:57:45.7439 Info Request finished HTTP/2 GET https://localhost:7266/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 349.9124ms 
+2025-03-04 21:57:46.0342 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - 
+2025-03-04 21:57:46.0342 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 14.6474ms 
+2025-03-04 21:57:46.0908 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/favicon-32x32.png - - 
+2025-03-04 21:57:46.0908 Info Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-03-04 21:57:46.0980 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/favicon-32x32.png - - - 200 628 image/png 7.2107ms 
+2025-03-04 22:06:17.9569 Info Now listening on: https://localhost:7266 
+2025-03-04 22:06:18.0157 Info Now listening on: http://localhost:5250 
+2025-03-04 22:06:18.1649 Info Application started. Press Ctrl+C to shut down. 
+2025-03-04 22:06:18.1731 Info Hosting environment: Development 
+2025-03-04 22:06:18.1731 Info Content root path: C:\Users\HP\Downloads\New folder\HelloApp\HelloApp\ 
+2025-03-04 22:06:19.0997 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.html - - 
+2025-03-04 22:06:19.8394 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.html - - - 200 - text/html;charset=utf-8 747.3755ms 
+2025-03-04 22:06:19.9213 Info Request starting HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-04 22:06:19.9213 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/index.js - - 
+2025-03-04 22:06:19.9213 Info Request starting HTTP/2 GET https://localhost:7266/_vs/browserLink - - 
+2025-03-04 22:06:19.9213 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 13.7018ms 
+2025-03-04 22:06:19.9838 Info Request finished HTTP/2 GET https://localhost:7266/_framework/aspnetcore-browser-refresh.js - - - 200 16501 application/javascript;+charset=utf-8 62.7292ms 
+2025-03-04 22:06:20.1316 Info Request finished HTTP/2 GET https://localhost:7266/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 205.1525ms 
+2025-03-04 22:06:20.5432 Info Request starting HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - 
+2025-03-04 22:06:20.5597 Info Request finished HTTP/2 GET https://localhost:7266/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 16.4804ms 

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\New folder\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632103C0-250A-4E35-91A9-4A476D37AA28}|HelloApp\\HelloApp.csproj|c:\\users\\hp\\downloads\\new folder\\helloapp\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632103C0-250A-4E35-91A9-4A476D37AA28}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B695A-D2E1-40A9-8D8E-B9662389CAA9}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\hp\\downloads\\new folder\\helloapp\\repositorylayer\\migrations\\20250301095755_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B695A-D2E1-40A9-8D8E-B9662389CAA9}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\migrations\\20250301095755_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B695A-D2E1-40A9-8D8E-B9662389CAA9}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\hp\\downloads\\new folder\\helloapp\\repositorylayer\\migrations\\helloappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B695A-D2E1-40A9-8D8E-B9662389CAA9}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\migrations\\helloappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\New folder\\HelloApp\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\New folder\\HelloApp\\HelloApp\\Program.cs",
+              "RelativeToolTip": "HelloApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:46:25.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250301095755_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\New folder\\HelloApp\\RepositoryLayer\\Migrations\\20250301095755_InitialMigration.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Migrations\\20250301095755_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\New folder\\HelloApp\\RepositoryLayer\\Migrations\\20250301095755_InitialMigration.cs",
+              "RelativeToolTip": "RepositoryLayer\\Migrations\\20250301095755_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:14:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloAppContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\New folder\\HelloApp\\RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\New folder\\HelloApp\\RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "RelativeToolTip": "RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:14:38.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
