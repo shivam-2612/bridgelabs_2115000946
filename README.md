@@ -73,4 +73,7 @@
 - done a assignment of Web API
 
 # 02/03/25
-- Done a ssignment of ORM - Entity Framework
+- Done a ssignmentof ORM - Entity Framework
+
+# 20/03/25
+- Done a assignment to design the HTML pages applied some CSS
